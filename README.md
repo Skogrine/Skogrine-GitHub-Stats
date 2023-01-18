@@ -1,5 +1,7 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+[![Generate Stats Images](https://github.com/Skogrine/Skogrine-GitHub-Stats/actions/workflows/main.yml/badge.svg)](https://github.com/Skogrine/Skogrine-GitHub-Stats/actions/workflows/main.yml)
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
